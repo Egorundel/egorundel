@@ -12,8 +12,8 @@
   </a>
 </p>  
 
-<center> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&size=24&pause=1000&color=2999F7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=I+am+a+beginner+C%2B%2B+developer.;I+study+Python%2C+neural+networks+and+C%2B%2B.+;And+I'm+also+a+student+at+MIPT+%3A)](https://git.io/typing-svg) 
+<center>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&size=24&pause=1000&color=2999F7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=I+am+a+beginner+C%2B%2B+developer.;I+study+Python%2C+neural+networks+and+C%2B%2B.+;And+I'm+also+a+student+at+MIPT+%3A) 
 </center>
 
 <p align="center">  
