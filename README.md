@@ -1,9 +1,3 @@
-<div style="display: flex; justify-content: center;">
-  <a href="https://git.io/typing-svg" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=24&pause=1000&color=2999F7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=I+am+a+beginner+C%2B%2B+developer.;I+study+Python%2C+neural+networks+and+C%2B%2B.+;And+I'm+also+a+student+at+MIPT+%3A)" alt="Typing SVG" />
-  </a>
-</div>
-
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <p align="center">
@@ -18,9 +12,11 @@
   </a>
 </p>  
 
-
-
-
+<div style="text-align: center;">
+  <a href="https://git.io/typing-svg" style="display: inline-block;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=24&pause=1000&color=2999F7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=I+am+a+beginner+C%2B%2B+developer.;I+study+Python%2C+neural+networks+and+C%2B%2B.+;And+I'm+also+a+student+at+MIPT+%3A)" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">  
  <a href="#">
