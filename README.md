@@ -12,7 +12,9 @@
   </a>
 </p>  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&size=24&pause=1000&color=2999F7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=I+am+a+beginner+C%2B%2B+developer.;I+study+Python%2C+neural+networks+and+C%2B%2B.+;And+I'm+also+a+student+at+MIPT+%3A) 
+<p align="center">
+  <a><img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=750&color=C0C0C0&center=true&width=600&height=80&lines=Python+Developer+%F0%9F%90%8D+4th+year+student+at+BMSTU+%F0%9F%8E%93](https://readme-typing-svg.herokuapp.com?font=Russo+One&size=24&pause=1000&color=2999F7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=I+am+a+beginner+C%2B%2B+developer.;I+study+Python%2C+neural+networks+and+C%2B%2B.+;And+I'm+also+a+student+at+MIPT+%3A)" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">  
  <a href="#">
