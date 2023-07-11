@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
-  <style>
-    p {
-      font-family: 'Russo One', sans-serif;
-    }
-  </style>
-</head>
-<body>
-
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <p align="center">
@@ -29,12 +16,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=24&pause=1000&color=2999F7&width=435&lines=C%2B%2B+Developer+and+student+of+MIPT" alt="Typing SVG" /></a>
 </p>
 
-
-  <p> I am a beginner C++ developer.</p>
-  <p> I study Python, neural networks and C++.</p
-
-
-
+  <p allign= "center" > I am a beginner C++ developer.</p>
+  <p allign= "center" > I study Python, neural networks and C++.</p
 
 <p align="center">  
  <a href="#">
@@ -51,6 +34,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=egorundel&show_icons=true&include_all_commits=true&theme=discord_old_blurple" alt="Github Stats" height="165" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egorundel&show_icons=true&include_all_commits=true&theme=discord_old_blurple" alt="Github Stats" height="165">
 </p>
-
-</body>
-</html>
