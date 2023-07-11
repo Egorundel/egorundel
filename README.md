@@ -20,7 +20,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Пример применения шрифта Russo One в Markdown</title>
   <link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
   <style>
     p {
