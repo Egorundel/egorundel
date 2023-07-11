@@ -23,7 +23,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
 </style>
 
-<p align="center" style="font-family: Russo One"> I am a beginner C++ developer.</p>
+<p align="center" style="font-family: Russo One, sans-serif"> I am a beginner C++ developer.</p>
 <p align="center" style="font-family: Russo One"> I study Python, neural networks and C++.</p
 </head>
 
