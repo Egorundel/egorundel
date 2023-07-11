@@ -16,16 +16,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=24&pause=1000&color=2999F7&width=435&lines=C%2B%2B+Developer+and+student+of+MIPT" alt="Typing SVG" /></a>
 </p>
 
-<head>
-<style>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
-</style>
-
 <p align="center" style="font-family: Russo One, sans-serif"> I am a beginner C++ developer.</p>
 <p align="center" style="font-family: Russo One"> I study Python, neural networks and C++.</p
-</head>
 
 <p align="center">  
  <a href="#">
