@@ -16,14 +16,25 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=24&pause=1000&color=2999F7&width=435&lines=C%2B%2B+Developer+and+student+of+MIPT" alt="Typing SVG" /></a>
 </p>
 
-<link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Пример применения шрифта Russo One в Markdown</title>
+  <link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
+  <style>
+    p {
+      font-family: 'Russo One', sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <p> I am a beginner C++ developer.</p>
+  <p> I study Python, neural networks and C++.</p
+</body>
+</html>
 
-p {
-  font-family: 'Russo One', sans-serif;
-}
 
-<p style="font-family: 'Russo One', sans-serif;"> I am a beginner C++ developer.</p>
-<p align="center" style="font-family: 'Russo One', sans-serif;"> I study Python, neural networks and C++.</p
 
 <p align="center">  
  <a href="#">
