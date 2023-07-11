@@ -12,7 +12,12 @@
   </a>
 </p>
 
-<center> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=24&pause=1000&color=2999F7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=I+am+a+beginner+C%2B%2B+developer.;I+study+Python%2C+neural+networks+and+C%2B%2B.+;And+I'm+also+a+student+at+MIPT+%3A)" alt="Typing SVG" /></a> </center>
+<div style="display: flex; justify-content: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=24&pause=1000&color=2999F7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=I+am+a+beginner+C%2B%2B+developer.;I+study+Python%2C+neural+networks+and+C%2B%2B.+;And+I'm+also+a+student+at+MIPT+%3A)" alt="Typing SVG" />
+  </a>
+</div>
+
 
 
 <p align="center">  
