@@ -24,3 +24,9 @@
     <img src="https://badgen.net/badge/icon/Telegram?icon=telegram&label" alt="telegram" style="vertical-align:top; margin:6px 4px">
  </a>
 </p>
+
+## Some of my Github Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egorundel&layout=compact&theme=discord_old_blurple&exclude_repo=python_visualization" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=egorundel&show_icons=true&include_all_commits=true&theme=discord_old_blurple" alt="Github Stats" height="165" >
+</p>
