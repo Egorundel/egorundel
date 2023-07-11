@@ -13,7 +13,7 @@
 </p>  
 
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=24&pause=800&color=2999F7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=I+am+a+beginner+C%2B%2B+developer.;I+study+Python%2C+neural+networks+and+C%2B%2B.+;And+I'm+also+a+student+at+MIPT+%3A+)" alt="Typing SVG" /></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=24&duration=4000&pause=500&color=2999F7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=I+am+a+beginner+C%2B%2B+developer.;I+study+Python%2C+neural+networks+and+C%2B%2B.+;And+I'm+also+a+student+at+MIPT+%3A+)" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">  
