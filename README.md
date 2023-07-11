@@ -10,7 +10,7 @@
   <a href="#">
     <img src="svg/tensorrt.svg" alt="tensorrt" style="vertical-align:top; margin:6px 4px">
   </a>
-</p>
+</p>  
 
 
 <div style="display: flex; justify-content: center;">
