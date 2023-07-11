@@ -16,6 +16,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=24&pause=1000&color=2999F7&width=435&lines=C%2B%2B+Developer+and+student+of+MIPT" alt="Typing SVG" /></a>
 </p>
 
+<p> I am a beginner C++ developer. </p>
+<p> I study Python, neural networks and C++. </p>
+
 <p align="center">  
  <a href="#">
     <img src="https://komarev.com/ghpvc/?username=egorundel" alt="cpp" style="vertical-align:top; margin:6px 4px">
