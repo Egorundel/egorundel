@@ -28,6 +28,6 @@
 <h1 align="center"> Some of my Github Stats </h1>
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egorundel&layout=compact&theme=discord_old_blurple&exclude_repo=python_visualization" alt="Top Langs" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=egorundel&show_icons=true&include_all_commits=true&theme=discord_old_blurple" alt="Github Stats" height="165" >
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=egorundel&show_icons=true&include_all_commits=true&theme=discord_old_blurple" alt="Github Stats" height="165" > -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egorundel&show_icons=true&include_all_commits=true&theme=discord_old_blurple" alt="Github Stats" height="165">
 </p>
