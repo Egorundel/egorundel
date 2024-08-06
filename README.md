@@ -11,12 +11,9 @@
 </p>
 
 <p align="center">  
- <a href="#">
     <img src="https://komarev.com/ghpvc/?username=egorundel" alt="cpp" style="vertical-align:top; margin:6px 4px">
-  </a>
  <a href="https://t.me/egorundel">
     <img src="https://badgen.net/badge/icon/Telegram?icon=telegram&label" alt="telegram" style="vertical-align:top; margin:6px 4px">
- </a>
 </p>
 
 <!-- <h1 align="center"> Some of my Github Stats </h1> -->
