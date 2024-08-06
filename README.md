@@ -13,11 +13,9 @@
 </p>  
 
 <p align="center">
-  <a href="#">
     <img src="svg/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
     <img src="svg/languages/cpp.svg" alt="cpp" style="vertical-align:top; margin:6px 4px">
     <img src="svg/tensorrt.svg" alt="tensorrt" style="vertical-align:top; margin:6px 4px">
-  </a>
 </p>  
 
 <p align="center">
